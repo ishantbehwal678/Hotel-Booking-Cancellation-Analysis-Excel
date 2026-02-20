@@ -3,13 +3,13 @@ End-to-end data analytics project using Microsoft Excel to analyze hotel booking
 
 =================================
 
-Project Overview
+1.Project Overview
 
 This project analyzes hotel booking data from city and resort hotels to understand cancellation trends, guest behavior, and seasonal booking patterns.
 
 The objective was to identify key factors influencing cancellations and build an interactive Excel dashboard to support data-driven decision-making in the hospitality domain.
 
-Dataset
+2.Dataset
 
 Source: Kaggle – Hotel Booking Dataset
 
@@ -37,7 +37,7 @@ The dataset includes 36 columns covering:
 
 The focus of the analysis is on booking cancellations and related influencing factors.
 
-Tools & Technologies
+3.Tools & Technologies
 
 -Microsoft Excel – Data analysis and dashboard development
 -Power Query Editor – Data cleaning and transformation
@@ -45,7 +45,7 @@ Tools & Technologies
 -Pivot Charts – Visualization
 -Slicers – Interactive filtering
 
-Work Performed
+4.Work Performed
 4.1 Data Cleaning & Transformation (Power Query)
 
 -Imported CSV dataset using Power Query
@@ -104,7 +104,7 @@ Applied dashboard design principles:
 
 -Improved readability and layout
 
-Key Insights
+5.Key Insights
 
 -Couples have the highest booking and cancellation rates.
 
@@ -116,7 +116,7 @@ Key Insights
 
 -Interactive filtering enables detailed cancellation trend analysis by year and country.
 
-Business Impact
+6.Business Impact
 
 This project demonstrates how Excel can be leveraged to:
 
@@ -128,7 +128,7 @@ This project demonstrates how Excel can be leveraged to:
 
 -Support revenue and occupancy planning decisions
 
-Outcome
+7.Outcome
 
 Delivered a complete Excel-based hospitality analytics dashboard.
 
