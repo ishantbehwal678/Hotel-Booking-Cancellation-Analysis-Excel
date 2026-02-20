@@ -15,118 +15,118 @@ Source: Kaggle – Hotel Booking Dataset
 
 The dataset includes 36 columns covering:
 
-Hotel type (City / Resort)
+-Hotel type (City / Resort)
 
-Cancellation status
+-Cancellation status
 
-Lead time
+-Lead time
 
-Arrival date
+-Arrival date
 
-Guest composition (Adults, Children, Babies)
+-Guest composition (Adults, Children, Babies)
 
-Reserved vs Assigned room type
+-Reserved vs Assigned room type
 
-Booking changes
+-Booking changes
 
-Deposit type
+-Deposit type
 
-Customer type
+-Customer type
 
-Distribution channel
+-Distribution channel
 
 The focus of the analysis is on booking cancellations and related influencing factors.
 
 Tools & Technologies
 
-Microsoft Excel – Data analysis and dashboard development
-Power Query Editor – Data cleaning and transformation
-Pivot Tables – Data summarization
-Pivot Charts – Visualization
-Slicers – Interactive filtering
+-Microsoft Excel – Data analysis and dashboard development
+-Power Query Editor – Data cleaning and transformation
+-Pivot Tables – Data summarization
+-Pivot Charts – Visualization
+-Slicers – Interactive filtering
 
 Work Performed
 4.1 Data Cleaning & Transformation (Power Query)
 
-Imported CSV dataset using Power Query
+-Imported CSV dataset using Power Query
 
-Removed irrelevant columns
+-Removed irrelevant columns
 
-Handled null and blank values
+-Handled null and blank values
 
-Retained columns relevant to cancellation analysis
+-Retained columns relevant to cancellation analysis
 
-Loaded cleaned dataset into Excel for analysis
+-Loaded cleaned dataset into Excel for analysis
 
 4.2 Calculated Columns (Excel Functions)
 
 Created additional analytical columns using IF and logical conditions:
 
-Room Status – Compared reserved vs assigned room type
+-Room Status – Compared reserved vs assigned room type
 
-Guest Type – Categorized bookings into Couples, Singles, and Families
+-Guest Type – Categorized bookings into Couples, Singles, and Families
 
-Applied nested IF and AND functions for classification
+-Applied nested IF and AND functions for classification
 
 4.3 Data Analysis (Pivot Tables)
 
 Used pivot tables to analyze:
 
-Booking vs Cancellation counts by guest type
+-Booking vs Cancellation counts by guest type
 
-City vs Resort hotel performance
+-City vs Resort hotel performance
 
-Monthly booking and cancellation trends
+-Monthly booking and cancellation trends
 
-Impact of room status on cancellations
+-Impact of room status on cancellations
 
 4.4 Dashboard Development (Excel)
 
 Built an interactive dashboard including:
 
-Column charts for booking and cancellation comparison
+-Column charts for booking and cancellation comparison
 
-Pie and donut charts for hotel type distribution
+-Pie and donut charts for hotel type distribution
 
-Monthly trend analysis visuals
+-Monthly trend analysis visuals
 
-Room status impact visualization
+-Room status impact visualization
 
-Interactive slicers for Year and Country filtering
+-Interactive slicers for Year and Country filtering
 
 Applied dashboard design principles:
 
-Clean color palette
+-Clean color palette
 
-Removed unnecessary gridlines
+-Removed unnecessary gridlines
 
-Customized legends and data labels
+-Customized legends and data labels
 
-Improved readability and layout
+-Improved readability and layout
 
 Key Insights
 
-Couples have the highest booking and cancellation rates.
+-Couples have the highest booking and cancellation rates.
 
-Cancellations are not strongly influenced by room assignment mismatch.
+-Cancellations are not strongly influenced by room assignment mismatch.
 
-Peak cancellations occur during high-demand months (August–October).
+-Peak cancellations occur during high-demand months (August–October).
 
-City hotels experience higher booking and cancellation volumes compared to resort hotels.
+-City hotels experience higher booking and cancellation volumes compared to resort hotels.
 
-Interactive filtering enables detailed cancellation trend analysis by year and country.
+-Interactive filtering enables detailed cancellation trend analysis by year and country.
 
 Business Impact
 
 This project demonstrates how Excel can be leveraged to:
 
-Analyze hospitality booking trends
+-Analyze hospitality booking trends
 
-Identify seasonal cancellation behavior
+-Identify seasonal cancellation behavior
 
-Segment guest types effectively
+-Segment guest types effectively
 
-Support revenue and occupancy planning decisions
+-Support revenue and occupancy planning decisions
 
 Outcome
 
